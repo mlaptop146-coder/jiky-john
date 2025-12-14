@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+}
+
+.ul {
+    background-color: #151f19;
+    height: 25px;
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+    padding: 50px;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+ul li a:hover {
+    background-color: white;
+    color: #151f19;
+    font-style: italic;
+    border-radius: 10px;
+    transition: 0.5s;
+    text-align: justify;
+}
+
+td img {
+    height: 450px;
+    width: 600px;
+    margin: 10px;
+    border-radius: 50px;
+}
